@@ -6,7 +6,7 @@ I'm always trying to grow and learn something new.
 
 ### What I'm focusing on
 
-Currently I like to develop apps using Swift and Kotlin as well, and applying machine learning in my project as well
+Currently I like to develop apps using Swift and Kotlin aswell as applying machine learning in my project.
 
 ### Reach me on my social media
 
