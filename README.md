@@ -10,4 +10,4 @@ Currently I like to develop apps using Swift and Kotlin as well, and applying ma
 
 ### Reach me on my social media
 
-[![Linkedin_Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/ahmadzakyw/)  [![TwitterBadge](https://img.shields.io/badge/-Twitter-lca0f1?style-flat-square&labelColor=lca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues](https://twitter.com/zwisnumurti)
+[![Linkedin_Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/ahmadzakyw/)  [[![TwitterBadge](https://img.shields.io/badge/-Twitter-lca0f1?style-flat-square&labelColor=lca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues](https://twitter.com/zwisnumurti)
