@@ -1,12 +1,12 @@
 ### Hi there Zaky's here
 
-I work as a Learner at Apple Developer Academy @ BINUS and a Machine Learning Advisor at Bangkit Academy.
+I work as a Learner at Apple Developer Academy @ BINUS and iOS Developer at NP Solution Limited.
 
 I'm always trying to grow and learn something new.
 
 ### What I'm focusing on
 
-Currently I like to develop apps using Swift and Kotlin aswell as applying machine learning in my project.
+Currently I like to develop apps especially using Swift in my project.
 
 ### Reach me on my social media
 
